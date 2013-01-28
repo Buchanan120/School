@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Menu.java|MenuGrid.java|Panel.java|DrawTest.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/DrawTest.java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

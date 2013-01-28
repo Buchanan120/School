@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangstonsLoop", "LangstonsLoop\LangstonsLoop\LangstonsLoop.csproj", "{9E1234FC-B8F1-4DF0-A51C-312EE0EFB3E4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LangstonsLoopContent", "LangstonsLoop\LangstonsLoopContent\LangstonsLoopContent.contentproj", "{60C95AEA-8038-41F3-87FC-16FDFB47F3E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1234FC-B8F1-4DF0-A51C-312EE0EFB3E4}.Debug|x86.ActiveCfg = Debug|x86
+		{9E1234FC-B8F1-4DF0-A51C-312EE0EFB3E4}.Debug|x86.Build.0 = Debug|x86
+		{9E1234FC-B8F1-4DF0-A51C-312EE0EFB3E4}.Release|x86.ActiveCfg = Release|x86
+		{9E1234FC-B8F1-4DF0-A51C-312EE0EFB3E4}.Release|x86.Build.0 = Release|x86
+		{60C95AEA-8038-41F3-87FC-16FDFB47F3E0}.Debug|x86.ActiveCfg = Debug|x86
+		{60C95AEA-8038-41F3-87FC-16FDFB47F3E0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
